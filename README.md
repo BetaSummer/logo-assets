@@ -4,12 +4,8 @@
 
 ![wrapper.png](./wrapper.png)
 
-导出一些规格的在 `assets` 目录
 
-![dir-assets.png](./dir-assets.png)
+导出一些规格在 `./assets`，[sketch 原稿](./sketch/β-logo.sketch)在 `./sketch` 目录
 
-
-[sketch 原稿](./sketch/β-logo.sketch)在 `sketch` 目录
-
-![](./sketch-wrapper.png)
+![](./wrapper2.png)
 
