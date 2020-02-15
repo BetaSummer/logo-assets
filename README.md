@@ -9,5 +9,7 @@
 ![dir-assets.png](./dir-assets.png)
 
 
-sketch 原稿在 `sketch` 目录
+[sketch 原稿](./sketch/β-logo.sketch)在 `sketch` 目录
+
+![](./sketch-wrapper.png)
 
